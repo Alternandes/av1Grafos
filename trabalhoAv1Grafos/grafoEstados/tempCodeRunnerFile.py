@@ -1,0 +1,1 @@
+print(f"Grau {grau}: {freq} estados")
